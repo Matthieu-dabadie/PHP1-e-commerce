@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+article {
+    color: black;
+}
+
+.recap {
+    margin: 5em;
+}
+
+.liste {
+    margin: 3em;
+}
+
+.artLineOne,
+.artLineTwo {
+    margin: 2em;
+}
+
+.viderPanier {
+    margin: 5em;
+}
